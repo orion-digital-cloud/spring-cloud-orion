@@ -101,8 +101,10 @@
         <module>spring-cloud-orion-distributed-lock</module>
         <module>spring-cloud-orion-container</module>
         <module>spring-cloud-orion-event</module>
-        <module>orion-digital-cloud-dashboard</module>
-        <module>orion-digital-cloud-storage</module>
+        <module>spring-cloud-orion-dashboard</module>
+        <module>spring-cloud-orion-storage</module>
+        <module>spring-cloud-orion-message</module>
+        <module>spring-cloud-orion-generator</module>
     </modules>
 
     <dependencyManagement>

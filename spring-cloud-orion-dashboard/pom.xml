@@ -10,7 +10,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>orion-digital-cloud-dashboard</artifactId>
+    <artifactId>spring-cloud-orion-dashboard</artifactId>
     <packaging>jar</packaging>
     <name>Spring Cloud Orion Dashboard</name>
     <description>Spring Cloud Orion Dashboard</description>

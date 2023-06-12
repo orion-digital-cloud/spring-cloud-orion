@@ -13,6 +13,9 @@
     <packaging>pom</packaging>
     <name>Spring Cloud Orion Starters</name>
     <description>Spring Cloud Orion Starters</description>
+    <modules>
+        <module>spring-cloud-orion-commons</module>
+    </modules>
 
     <build>
         <plugins>
